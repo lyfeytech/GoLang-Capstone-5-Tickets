@@ -10,4 +10,4 @@ It should also draw on the fmt and math/rand packages to display and align text 
 
  Whether the price covers a return trip
 
- The price in millions of dollars
+ The price in millions of dollars
